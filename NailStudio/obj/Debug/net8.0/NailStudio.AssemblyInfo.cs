@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NailStudio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21e0f23f6b1d989df75d8bf9343640f9ceeccbb5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32882283aadaa0fda0631b1da19cc6ce05bd9379")]
 [assembly: System.Reflection.AssemblyProductAttribute("NailStudio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NailStudio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
