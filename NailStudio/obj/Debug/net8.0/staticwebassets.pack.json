@@ -37,16 +37,100 @@
       "PackagePath": "staticwebassets/images/design_simple.jpg"
     },
     {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/nude_almond_french.jpg",
+      "PackagePath": "staticwebassets/images/nude_almond_french.jpg"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/nude_almond_glitter.jpg",
+      "PackagePath": "staticwebassets/images/nude_almond_glitter.jpg"
+    },
+    {
       "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/nude_almond_simple.jpg",
       "PackagePath": "staticwebassets/images/nude_almond_simple.jpg"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/nude_coffin_french.jpg",
+      "PackagePath": "staticwebassets/images/nude_coffin_french.jpg"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/nude_coffin_glitter.jpg",
+      "PackagePath": "staticwebassets/images/nude_coffin_glitter.jpg"
     },
     {
       "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/nude_coffin_simple.jpg",
       "PackagePath": "staticwebassets/images/nude_coffin_simple.jpg"
     },
     {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/nude_square_french.jpg",
+      "PackagePath": "staticwebassets/images/nude_square_french.jpg"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/nude_square_glitter.jpg",
+      "PackagePath": "staticwebassets/images/nude_square_glitter.jpg"
+    },
+    {
       "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/nude_square_simple.jpg",
       "PackagePath": "staticwebassets/images/nude_square_simple.jpg"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/pink_almond_french.jpg",
+      "PackagePath": "staticwebassets/images/pink_almond_french.jpg"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/pink_almond_glitter.jpg",
+      "PackagePath": "staticwebassets/images/pink_almond_glitter.jpg"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/pink_almond_simple.jpg",
+      "PackagePath": "staticwebassets/images/pink_almond_simple.jpg"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/pink_coffin_french.jpg",
+      "PackagePath": "staticwebassets/images/pink_coffin_french.jpg"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/pink_coffin_glitter.jpg",
+      "PackagePath": "staticwebassets/images/pink_coffin_glitter.jpg"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/pink_coffin_simple.jpg",
+      "PackagePath": "staticwebassets/images/pink_coffin_simple.jpg"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/pink_square_french.jpg",
+      "PackagePath": "staticwebassets/images/pink_square_french.jpg"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/pink_square_glitter.jpg",
+      "PackagePath": "staticwebassets/images/pink_square_glitter.jpg"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/pink_square_simple.jpg",
+      "PackagePath": "staticwebassets/images/pink_square_simple.jpg"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/red_almond_french.jpg",
+      "PackagePath": "staticwebassets/images/red_almond_french.jpg"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/red_almond_glitter.jpg",
+      "PackagePath": "staticwebassets/images/red_almond_glitter.jpg"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/red_almond_simple.jpg",
+      "PackagePath": "staticwebassets/images/red_almond_simple.jpg"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/red_coffin_french.jpg",
+      "PackagePath": "staticwebassets/images/red_coffin_french.jpg"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/red_coffin_glitter.jpg",
+      "PackagePath": "staticwebassets/images/red_coffin_glitter.jpg"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/red_coffin_simple.jpg",
+      "PackagePath": "staticwebassets/images/red_coffin_simple.jpg"
     },
     {
       "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/red_square_french.jpg",
