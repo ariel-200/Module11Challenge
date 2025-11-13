@@ -1,0 +1,325 @@
+{
+  "Files": [
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/obj/Debug/net8.0/scopedcss/projectbundle/NailStudio.bundle.scp.css",
+      "PackagePath": "staticwebassets/NailStudio.bundle.scp.css"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/color_nude.jpg",
+      "PackagePath": "staticwebassets/images/color_nude.jpg"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/color_pink.jpg",
+      "PackagePath": "staticwebassets/images/color_pink.jpg"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/color_red.jpg",
+      "PackagePath": "staticwebassets/images/color_red.jpg"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/design_french.jpg",
+      "PackagePath": "staticwebassets/images/design_french.jpg"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/design_glitter.jpg",
+      "PackagePath": "staticwebassets/images/design_glitter.jpg"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/design_simple.jpg",
+      "PackagePath": "staticwebassets/images/design_simple.jpg"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/nude_almond_simple.jpg",
+      "PackagePath": "staticwebassets/images/nude_almond_simple.jpg"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/nude_coffin_simple.jpg",
+      "PackagePath": "staticwebassets/images/nude_coffin_simple.jpg"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/nude_square_simple.jpg",
+      "PackagePath": "staticwebassets/images/nude_square_simple.jpg"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/red_square_french.jpg",
+      "PackagePath": "staticwebassets/images/red_square_french.jpg"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/red_square_glitter.jpg",
+      "PackagePath": "staticwebassets/images/red_square_glitter.jpg"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/red_square_simple.jpg",
+      "PackagePath": "staticwebassets/images/red_square_simple.jpg"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/shape_almond.jpg",
+      "PackagePath": "staticwebassets/images/shape_almond.jpg"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/shape_coffin.jpg",
+      "PackagePath": "staticwebassets/images/shape_coffin.jpg"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/images/shape_square.jpg",
+      "PackagePath": "staticwebassets/images/shape_square.jpg"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/workspaces/Module11Challenge/NailStudio/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.NailStudio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.NailStudio.props",
+      "PackagePath": "build\\NailStudio.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.NailStudio.props",
+      "PackagePath": "buildMultiTargeting\\NailStudio.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.NailStudio.props",
+      "PackagePath": "buildTransitive\\NailStudio.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

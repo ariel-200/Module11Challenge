@@ -1,0 +1,154 @@
+/* Global page styling */
+body {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    /* Soft pink-purple gradient background */
+    background: linear-gradient(135deg, #ffe6f5, #f3e5ff);
+    min-height: 100vh;
+}
+
+/* Main content container */
+.container {
+    max-width: 900px;
+}
+
+/* Headings */
+h1, h4 {
+    color: #b0207f; /* deep pink-purple */
+    font-weight: 700;
+}
+
+/* Paragraphs */
+p {
+    color: #444;
+}
+
+/* Navbar */
+.navbar {
+    background: linear-gradient(90deg, #ff9ad5, #c58bff);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand,
+.navbar-nav .nav-link {
+    color: white !important;
+    font-weight: 600;
+}
+
+.navbar-nav .nav-link:hover {
+    text-decoration: underline;
+}
+
+/* Buttons */
+.btn-primary {
+    background-color: #d645a8;
+    border-color: #d645a8;
+}
+
+.btn-primary:hover {
+    background-color: #b0207f;
+    border-color: #b0207f;
+}
+
+/* Form card styling */
+form.p-3.border.rounded {
+    background-color: #ffffffee;
+    border-radius: 16px !important;
+    border-color: #f2c1e5 !important;
+    box-shadow: 0 6px 15px rgba(176, 32, 127, 0.12);
+}
+
+/* Validation text */
+.text-danger {
+    font-size: 0.85rem;
+}
+
+/* Alert styling tweaks */
+.alert-info {
+    background-color: #f5e9ff;
+    border-color: #e0c5ff;
+    color: #6a3aa8;
+}
+
+/* Nail option cards */
+.option-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid #f5cce7;
+    border-radius: 14px;
+    padding: 8px;
+    cursor: pointer;
+    width: 130px;
+    transition: 0.2s ease;
+    text-align: center;
+    font-size: 0.9rem;
+    background-color: #fff;
+}
+
+.option-card:hover {
+    border-color: #ff80bf;
+    box-shadow: 0 4px 12px rgba(255, 128, 191, 0.35);
+}
+
+/* Hide radio buttons themselves */
+.option-card input[type="radio"] {
+    display: none;
+}
+
+/* Nail preview image */
+.option-img {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    object-fit: cover;
+    margin-bottom: 6px;
+    border: 2px solid transparent;
+}
+
+/* Highlight selected option */
+.option-card input[type="radio"]:checked + .option-img {
+    border-color: #d645a8;
+    box-shadow: 0 0 8px rgba(214, 69, 168, 0.5);
+}
+
+.option-card input[type="radio"]:checked ~ span {
+    font-weight: 700;
+    color: #b0207f;
+}
+
+/* Gap utility for older Bootstrap */
+.gap-3 {
+    gap: 1rem;
+}
+
+/* Result image styling */
+img.img-fluid.rounded {
+    max-width: 100%;
+    border-radius: 18px !important;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.18);
+}
+
+/* Footer */
+.footer {
+    background-color: #ffffffaa;
+}
+
+/* Mobile tweaks */
+@media (max-width: 600px) {
+    .option-card {
+        width: 100px;
+    }
+
+    .option-img {
+        width: 80px;
+        height: 80px;
+    }
+
+    form.p-3.border.rounded {
+        padding: 12px !important;
+    }
+}
+
+
